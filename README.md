@@ -1,2 +1,3 @@
 # Horiseon
-Horiseon website page.
+Code refracted website page for Horiseon, with HTML and CSS.
+Website Link: <NA>
